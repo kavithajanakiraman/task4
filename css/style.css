@@ -1,8 +1,13 @@
 body{
-	margin-left: 30px;
 	border: 1px solid dimgray;
 	border-collapse: collapse;
+	width: 600px;
+	margin-left: 20px;
+
 }
+
+
+
 img{
 	border: 1px solid dimgray;
 	border-collapse: collapse;
@@ -18,7 +23,7 @@ button{
 span{
 	font-size: 30px;
 	font-weight: bold;
-	margin-left: 440px;
+	margin-left: 190px;
 	
 
 }
@@ -31,7 +36,7 @@ p{
 	font-size: 16px;
 	font-weight: initial;
 	font-family: sans-serif;
-	white-space: nowrap;
+	white-space: normal;
 }
 .icon img{
 	border-radius: 50%;
@@ -46,7 +51,7 @@ i.fa{
 .span{
 	color: gray;
 	font-size: 20px;
-	margin-left: 564px;
+	margin-left: 350px;
 	vertical-align: middle;
 
 }
