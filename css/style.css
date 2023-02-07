@@ -1,0 +1,50 @@
+body{
+	border: 1px solid white;
+	/*height: 1000px;
+	width: 300px;*/
+}
+img{
+	display: block;
+}
+button{
+	background-color: darkgreen;
+	color: white;
+	font-size: 30px;
+	display: inline;
+	margin-top: 20px;
+}
+span{
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 440px;
+	
+
+}
+h1{
+	font-weight: bold;
+	font-family: serif;
+	font-size: 40px;
+}
+p{
+	font-size: 16px;
+	font-weight: initial;
+	font-family: sans-serif;
+	white-space: nowrap;
+}
+td img{
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+
+	display: inline-flex;
+}
+/*i.image{
+	
+	display: inline;
+}
+
+*/
+i.fa{
+	margin-left: 300px;
+padding: 5px;
+}
